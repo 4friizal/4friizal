@@ -1,6 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30px" height="30px">
-
-## My Name is Afrizal, nice to meet yow
+## Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30px" height="30px"> My Name is Afrizal, nice to meet yow
 
 <p align="center">
   <img width="200" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
