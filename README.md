@@ -1,10 +1,9 @@
 <h3> Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30px" height="30px"> My Name is Afrizal, nice to meet yow </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+  <img src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 
----
 
   <h3 align="left">🛠️ Languages and Tools</h3>
   <p align="center">
@@ -22,9 +21,9 @@
     <a href="https://vercel.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="postman" width="40" height="40"/> </a>
   </p>
 
----
 
-<h3 align="left">:gear: GitHub Analytics</h3>
+
+<h3 align="left">:gear: GitHub Analytics:</h3>
 <div align="center">
   <a href="https://github.com/4friizal">
     <img height="127em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=4friizal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
