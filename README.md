@@ -9,7 +9,7 @@
 <h3 align="left">:gear: GitHub Analytics:</h3>
 <div align="center">
   <a href="https://github.com/4friizal">
-    <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=4friizal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=4friizal&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=4friizal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=4friizal&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </div>
