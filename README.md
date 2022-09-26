@@ -1,9 +1,19 @@
 <h3> Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30px" height="30px"> My Name is Afrizal, nice to meet yow </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+  <img width="500" height="280"  src="https://raw.githubusercontent.com/demartini/demartini/master/code.gif">
 </p>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/af-rizal-4aa69b24a/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/_xjjal21" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/4friizal@gmail.com-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/>
+  </a>
+</p>
 
   <h3 align="left">🛠️ Languages and Tools</h3>
   <p align="center">
@@ -30,3 +40,9 @@
     <img height="127em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=4friizal&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </div>
+
+## Reach me on <img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Handshake.gif" height="32px">
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/af-rizal-4aa69b24a/)
+![](https://img.shields.io/badge/4friizal@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
+![](https://img.shields.io/badge/xjjal21-e95950?style=flat&logo=instagram&logoColor=white)
