@@ -10,9 +10,7 @@
   <a href="https://www.instagram.com/_xjjal21" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
-  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/4friizal@gmail.com-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/>
-  </a>
 </p>
 
   <h3 align="left">🛠️ Languages and Tools</h3>
