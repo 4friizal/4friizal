@@ -16,7 +16,6 @@
 
 
   <h3 align="left">👨‍💻 About Me :</h3>
-  <img align="right" height="185px" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
   <div align="left">
     <ul>
         <h4>💻 Very obsessed with the world of technology, especially in design and creative</h4>
