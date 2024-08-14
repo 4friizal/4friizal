@@ -14,7 +14,6 @@
     <img src="https://img.shields.io/badge/4friizal@gmail.com-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/>
 </p>
 
-
   <h3 align="left">👨‍💻 About Me :</h3>
   <div align="left">
     <ul>
@@ -34,14 +33,12 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="bootstrap" width="40" height="40"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-    <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
+    <a href="https://nextjs.org/" target="_blank"><img src="./assets/NextJS-Dark.svg" alt="nextjs" width="40" height="40"/></a>
     <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="nextjs" width="40" height="40"/></a>
     <a href="https://www.figma.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://vercel.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="postman" width="40" height="40"/> </a>
   </p>
-
-
 
 <h3 align="left">⚙️ GitHub Analytics:</h3>
 <div align="center">
