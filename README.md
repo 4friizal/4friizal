@@ -26,18 +26,18 @@
 
   <h3 align="left">🛠️ Languages and Tools</h3>
   <p align="center">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="./assets/HTML.svg" alt="html5" width="40" height="40"/></a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./assets/CSS.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./assets/JavaScript.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://nodejs.org" target="_blank"> <img src="./assets/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/></a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="./assets/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="./assets/TailwindCSS-Dark.svg" alt="tailwindcss" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="./assets/React-Dark.svg" alt="react" width="40" height="40"/> </a>
-    <a href="https://nextjs.org/" target="_blank"><img src="./assets/NextJS-Dark.svg" alt="nextjs" width="40" height="40"/></a>
-    <a href="https://redux.js.org" target="_blank"><img src="./assets/Redux.svg" alt="redux" width="40" height="40"/></a>
-    <a href="https://www.figma.com/" target="_blank"> <img src="./assets/Figma-Dark.svg" alt="figma" width="40" height="40"/> </a>
-    <a href="https://postman.com" target="_blank"> <img src="./assets/Postman.svg" alt="postman" width="40" height="40"/> </a>
-    <a href="https://sass-lang.com/" target="_blank"> <img src="./assets/Sass.svg" alt="sass" width="40" height="40"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="./icons/HTML.svg" alt="html5" width="40" height="40"/></a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./icons/CSS.svg" alt="css3" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="https://nodejs.org" target="_blank"> <img src="./icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/></a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="./icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="./icons/TailwindCSS-Dark.svg" alt="tailwindcss" width="40" height="40"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="./icons/React-Dark.svg" alt="react" width="40" height="40"/> </a>
+    <a href="https://nextjs.org/" target="_blank"><img src="./icons/NextJS-Dark.svg" alt="nextjs" width="40" height="40"/></a>
+    <a href="https://redux.js.org" target="_blank"><img src="./icons/Redux.svg" alt="redux" width="40" height="40"/></a>
+    <a href="https://www.figma.com/" target="_blank"> <img src="./icons/Figma-Dark.svg" alt="figma" width="40" height="40"/> </a>
+    <a href="https://postman.com" target="_blank"> <img src="./icons/Postman.svg" alt="postman" width="40" height="40"/> </a>
+    <a href="https://sass-lang.com/" target="_blank"> <img src="./icons/Sass.svg" alt="sass" width="40" height="40"/> </a>
   </p>
 
 <h3 align="left">⚙️ GitHub Analytics:</h3>
